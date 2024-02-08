@@ -21,7 +21,7 @@ conda activate $env_name
 echo "Active Conda environment: $CONDA_DEFAULT_ENV"
 
 #################### generate-avatar-animations #########################
-repo_url="https://github.com/AmberLien/generate-avatar-animations.git"
+repo_url="https://github.com/sensein/generate-avatar-animations.git"
 repo_dir="generate-avatar-animations"
 
 if [ -d "$repo_dir" ]; then
@@ -41,7 +41,7 @@ cd ..
 #################### generate-avatar-animations #########################
 
 #################### interactive-talking-avatar #########################
-repo_url="https://github.com/AmberLien/interactive-talking-avatar.git"
+repo_url="https://github.com/sensein/interactive-avatar.git"
 repo_dir="interactive-talking-avatar"
 
 if [ -d "$repo_dir" ]; then
